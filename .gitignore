@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env/
+
+# Model files and datasets
+models/
+digits/
+*.keras
+*.h5
+
+# Streamlit cache
+.streamlit/
+
+# System files
+.DS_Store
